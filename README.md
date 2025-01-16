@@ -1,7 +1,6 @@
 👋 Hi, I’m Tabish Raza (@Tabish764)  
 👀 I’m interested in front-end development.   
 💞️ I’m looking to collaborate on front-end projects.  
-  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I specialize in creating pixel-perfect websites and transforming design concepts into functional web experiences.  
 
